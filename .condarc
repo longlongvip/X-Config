@@ -1,0 +1,8 @@
+channels:
+  - defaults
+
+proxy_servers:
+  http: socks5://127.0.0.1:7889
+
+ssl_verify: false
+default_python:
